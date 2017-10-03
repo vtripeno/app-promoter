@@ -14,4 +14,4 @@ Venha e descubra Como **Rankear** seu App no Top 10! Nossos especialistas vão r
 ####Nós vemos lá!
 
 [sympla]: https://www.sympla.com.br/como-voce-deve-rankear-seu-app-deixe-o-entre-os-tops-10__196937
-[logo]: images/Postagem-Face-Insta.png
+[logo]: https://www.facebook.com/photo.php?fbid=1827001527328040&set=a.202640043097538.54509.100000546310819&type=3
